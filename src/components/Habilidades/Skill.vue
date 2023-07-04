@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex-none bg-[#020D1D] p-5 rounded-lg hover:scale-110 transition cursor-pointer"
+    class="flex-none bg-[#020D1D] p-5 rounded-lg hover:scale-125 transition cursor-pointer"
   >
     <img :src="imagemUrl" alt="imagem" width="30" />
   </div>
