@@ -1,11 +1,20 @@
 <template>
-  <div class="bg-[#020D1D] p-5 rounded-lg">
-    <img src="../../assets/html5.png" width="30" alt="html" />
+  <div
+    class="flex-none bg-[#020D1D] p-5 rounded-lg hover:scale-110 transition cursor-pointer"
+  >
+    <img :src="imagemUrl" alt="imagem" width="30" />
   </div>
 </template>
 
 <script>
-export default {};
+export default {
+  props: {
+    imagemUrl: {
+      type: String,
+      required: true,
+    },
+  },
+};
 </script>
 
 <style></style>

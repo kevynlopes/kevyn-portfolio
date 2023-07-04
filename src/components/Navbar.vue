@@ -1,13 +1,13 @@
 <template>
   <div>
     <nav
-      class="flex justify-between px-48 p-12 text-white font-semibold mb-12 max-md:px-4 max-md:flex-col max-md:gap-4"
+      class="flex justify-between px-60 p-12 text-white font-semibold mb-12 max-md:px-4 max-md:flex-col max-md:gap-4"
     >
-      <div class="z-50">
+      <a href="/" class="z-50">
         <h1 class="font-bold text-2xl">
           < Kevyn <span class="text-[#095CE0]">Lopes</span>/>
         </h1>
-      </div>
+      </a>
       <ul class="flex gap-8 z-40">
         <router-link class="hover:scale-110 transition" to="/"
           >Home</router-link
