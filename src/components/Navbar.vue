@@ -31,4 +31,9 @@
 export default {};
 </script>
 
-<style></style>
+<style>
+.router-link-exact-active {
+  color: #095ce0;
+  font-weight: bold;
+}
+</style>
