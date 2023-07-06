@@ -17,10 +17,6 @@ import Navbar from "./components/Navbar.vue";
       ></div>
       <div class="fundo w-1/3 aspect-square absolute -top-40 right-0"></div>
       <div
-        class="fundo w-1/3 aspect-square absolute -bottom-[1000px] left-[300px]"
-      ></div>
-
-      <div
         class="fundo2 w-1/3 aspect-square absolute -bottom-[1800px] -translate-x-1/2 left-1/3"
       ></div>
       <div
