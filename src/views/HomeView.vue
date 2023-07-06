@@ -20,6 +20,7 @@ export default {
   Hero,
   About,
   Skills,
+  Projects,
 };
 </script>
 
