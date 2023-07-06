@@ -8,13 +8,11 @@
       alert {
       <br />
       <p>
-        Eu sou <span class="text-[#095CE0]">Kevyn Lopes</span> um desenvolvedor
-        <span class="font-bold">FullStack</span>, com experiência nas principais
-        ferramentas como
-        <span class="font-bold">React.js, Vue.js e C#.</span>
-        Minha paixão é criar soluções inovadoras e escaláveis usando essas
-        tecnologias poderosas. Estou sempre em busca de novos desafios para
-        aprimorar minhas habilidades e entregar resultados excepcionais.
+        Seja Bem vindo ao meu site, eu me chamo
+        <span class="text-[#095CE0]">Kevyn Lopes</span>, Sou um apaixonado por
+        tecnologia e as áreas em que ela se ramifica, sou muito curioso, quando
+        descubro algo novo quero destrinchar tudo aquilo e utilizar a minha
+        criatividade para usar de diferentes formas.
       </p>
 
       }

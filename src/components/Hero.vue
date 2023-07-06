@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex justify-center lg:mb-64 gap-8 items-center max-lg:flex-col px-4"
+    class="flex justify-center lg:mb-28 gap-8 items-center max-lg:flex-col px-4"
   >
     <sobre />
     <div class="relative sm:w-[500px] flex flex-col gap-4">
