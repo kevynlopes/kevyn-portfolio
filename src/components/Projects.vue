@@ -96,6 +96,19 @@
         </div>
         <LinkGit :link="'https://github.com/kevynlopes'" />
       </div>
+      <div class="flex flex-col gap-4 items-center">
+        <Project
+          :imagem="'https://cdn.discordapp.com/attachments/1075914289967284255/1128074524504641577/image.png'"
+          alt="Imagem"
+          :titulo="'Techno Cursos'"
+          :desc="'Durante um curso empolgante, tive a oportunidade de aprofundar meus conhecimentos em desenvolvimento web, explorando não apenas o Vue.js e o Tailwind CSS, mas também o Vue Router. Durante esse programa, concluí um projeto prático chamado Techono Cursos, onde pude aplicar e consolidar minhas habilidades em todas essas tecnologias. O projeto Techono Cursos foi criado com o propósito de construir uma plataforma de cursos online dinâmica e interativa. Um dos principais aspectos desse projeto foi a integração do Vue Router, uma biblioteca do Vue.js que facilita a criação de rotas em aplicativos de página única'"
+        />
+        <div class="flex gap-8">
+          <frameworks :framework="'Vue.js'" />
+          <frameworks :framework="'Tailwind'" />
+        </div>
+        <LinkGit :link="'https://github.com/kevynlopes'" />
+      </div>
     </div>
   </div>
 </template>
